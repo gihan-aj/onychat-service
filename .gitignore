@@ -1,0 +1,11 @@
+# Compiled binary
+/go-chat-service
+go-chat-service.exe
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumb.db
